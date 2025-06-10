@@ -1,0 +1,924 @@
+{
+    "quiz_id": "example_quiz",
+    "timestamp": "2025-06-10T20:06:36.080694",
+    "analysis_results": [
+        {
+            "student_pair": {
+                "student1_id": "2312",
+                "student2_id": "42124"
+            },
+            "similarity_score": 0.08005050505050507,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "hdlf"
+                    },
+                    "segment2": {
+                        "text": "eifjdikeldf"
+                    },
+                    "similarity_percentage": 13.636363636363635
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "udkfjshkdjfc"
+                    },
+                    "segment2": {
+                        "text": "fkoskfolesf"
+                    },
+                    "similarity_percentage": 4.166666666666669
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "dhcdsaflkdsa"
+                    },
+                    "segment2": {
+                        "text": "sfd"
+                    },
+                    "similarity_percentage": 12.5
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jdilkfclkdsc"
+                    },
+                    "segment2": {
+                        "text": "jkedD\r\nKFKWe"
+                    },
+                    "similarity_percentage": 4.166666666666669
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nfj"
+                    },
+                    "segment2": {
+                        "text": "dmf,cd,f."
+                    },
+                    "similarity_percentage": 5.555555555555558
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "2312",
+                "student2_id": "243"
+            },
+            "similarity_score": 0.07833333333333332,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "hdlf"
+                    },
+                    "segment2": {
+                        "text": "yggyu"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "udkfjshkdjfc"
+                    },
+                    "segment2": {
+                        "text": "bkjbjk"
+                    },
+                    "similarity_percentage": 12.5
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "dhcdsaflkdsa"
+                    },
+                    "segment2": {
+                        "text": "klnlkn"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jdilkfclkdsc"
+                    },
+                    "segment2": {
+                        "text": "lnknk"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nfj"
+                    },
+                    "segment2": {
+                        "text": "nlknk"
+                    },
+                    "similarity_percentage": 9.999999999999998
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "2312",
+                "student2_id": "40011573"
+            },
+            "similarity_score": 0.04166666666666666,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "hdlf"
+                    },
+                    "segment2": {
+                        "text": "hi"
+                    },
+                    "similarity_percentage": 12.5
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "udkfjshkdjfc"
+                    },
+                    "segment2": {
+                        "text": "ds"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "dhcdsaflkdsa"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jdilkfclkdsc"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nfj"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "2312",
+                "student2_id": "31212"
+            },
+            "similarity_score": 0.0625,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "hdlf"
+                    },
+                    "segment2": {
+                        "text": "diucgid"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "udkfjshkdjfc"
+                    },
+                    "segment2": {
+                        "text": "dfhewquf"
+                    },
+                    "similarity_percentage": 12.5
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "dhcdsaflkdsa"
+                    },
+                    "segment2": {
+                        "text": "lfijweqif"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jdilkfclkdsc"
+                    },
+                    "segment2": {
+                        "text": "mmflkq"
+                    },
+                    "similarity_percentage": 12.5
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nfj"
+                    },
+                    "segment2": {
+                        "text": "lwkjflir"
+                    },
+                    "similarity_percentage": 6.25
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "2312",
+                "student2_id": "213"
+            },
+            "similarity_score": 0.0869047619047619,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "hdlf"
+                    },
+                    "segment2": {
+                        "text": "ddflije"
+                    },
+                    "similarity_percentage": 14.285714285714285
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "udkfjshkdjfc"
+                    },
+                    "segment2": {
+                        "text": "rfjrwi"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "dhcdsaflkdsa"
+                    },
+                    "segment2": {
+                        "text": "ehfuowqr"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jdilkfclkdsc"
+                    },
+                    "segment2": {
+                        "text": "hfrriw"
+                    },
+                    "similarity_percentage": 4.166666666666669
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nfj"
+                    },
+                    "segment2": {
+                        "text": "hrfior"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "42124",
+                "student2_id": "243"
+            },
+            "similarity_score": 0.009090909090909094,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "eifjdikeldf"
+                    },
+                    "segment2": {
+                        "text": "yggyu"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "fkoskfolesf"
+                    },
+                    "segment2": {
+                        "text": "bkjbjk"
+                    },
+                    "similarity_percentage": 4.545454545454547
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "sfd"
+                    },
+                    "segment2": {
+                        "text": "klnlkn"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jkedD\r\nKFKWe"
+                    },
+                    "segment2": {
+                        "text": "lnknk"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "dmf,cd,f."
+                    },
+                    "segment2": {
+                        "text": "nlknk"
+                    },
+                    "similarity_percentage": 0.0
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "42124",
+                "student2_id": "40011573"
+            },
+            "similarity_score": 0.018181818181818188,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "eifjdikeldf"
+                    },
+                    "segment2": {
+                        "text": "hi"
+                    },
+                    "similarity_percentage": 4.545454545454547
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "fkoskfolesf"
+                    },
+                    "segment2": {
+                        "text": "ds"
+                    },
+                    "similarity_percentage": 4.545454545454547
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "sfd"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jkedD\r\nKFKWe"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "dmf,cd,f."
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "42124",
+                "student2_id": "31212"
+            },
+            "similarity_score": 0.047474747474747475,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "eifjdikeldf"
+                    },
+                    "segment2": {
+                        "text": "diucgid"
+                    },
+                    "similarity_percentage": 13.636363636363635
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "fkoskfolesf"
+                    },
+                    "segment2": {
+                        "text": "dfhewquf"
+                    },
+                    "similarity_percentage": 4.545454545454547
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "sfd"
+                    },
+                    "segment2": {
+                        "text": "lfijweqif"
+                    },
+                    "similarity_percentage": 5.555555555555558
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jkedD\r\nKFKWe"
+                    },
+                    "segment2": {
+                        "text": "mmflkq"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "dmf,cd,f."
+                    },
+                    "segment2": {
+                        "text": "lwkjflir"
+                    },
+                    "similarity_percentage": 0.0
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "42124",
+                "student2_id": "213"
+            },
+            "similarity_score": 0.05997474747474747,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "eifjdikeldf"
+                    },
+                    "segment2": {
+                        "text": "ddflije"
+                    },
+                    "similarity_percentage": 13.636363636363635
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "fkoskfolesf"
+                    },
+                    "segment2": {
+                        "text": "rfjrwi"
+                    },
+                    "similarity_percentage": 4.545454545454547
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "sfd"
+                    },
+                    "segment2": {
+                        "text": "ehfuowqr"
+                    },
+                    "similarity_percentage": 6.25
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "jkedD\r\nKFKWe"
+                    },
+                    "segment2": {
+                        "text": "hfrriw"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "dmf,cd,f."
+                    },
+                    "segment2": {
+                        "text": "hrfior"
+                    },
+                    "similarity_percentage": 5.555555555555558
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "243",
+                "student2_id": "40011573"
+            },
+            "similarity_score": 0.0,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "yggyu"
+                    },
+                    "segment2": {
+                        "text": "hi"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "bkjbjk"
+                    },
+                    "segment2": {
+                        "text": "ds"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "klnlkn"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "lnknk"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nlknk"
+                    },
+                    "segment2": {
+                        "text": "w"
+                    },
+                    "similarity_percentage": 0.0
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "243",
+                "student2_id": "31212"
+            },
+            "similarity_score": 0.04345238095238096,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "yggyu"
+                    },
+                    "segment2": {
+                        "text": "diucgid"
+                    },
+                    "similarity_percentage": 7.142857142857145
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "bkjbjk"
+                    },
+                    "segment2": {
+                        "text": "dfhewquf"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "klnlkn"
+                    },
+                    "segment2": {
+                        "text": "lfijweqif"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "lnknk"
+                    },
+                    "segment2": {
+                        "text": "mmflkq"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nlknk"
+                    },
+                    "segment2": {
+                        "text": "lwkjflir"
+                    },
+                    "similarity_percentage": 6.25
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "243",
+                "student2_id": "213"
+            },
+            "similarity_score": 0.016666666666666666,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "yggyu"
+                    },
+                    "segment2": {
+                        "text": "ddflije"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "bkjbjk"
+                    },
+                    "segment2": {
+                        "text": "rfjrwi"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "klnlkn"
+                    },
+                    "segment2": {
+                        "text": "ehfuowqr"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "lnknk"
+                    },
+                    "segment2": {
+                        "text": "hfrriw"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "nlknk"
+                    },
+                    "segment2": {
+                        "text": "hrfior"
+                    },
+                    "similarity_percentage": 0.0
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "40011573",
+                "student2_id": "31212"
+            },
+            "similarity_score": 0.050396825396825405,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "hi"
+                    },
+                    "segment2": {
+                        "text": "diucgid"
+                    },
+                    "similarity_percentage": 7.142857142857145
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "ds"
+                    },
+                    "segment2": {
+                        "text": "dfhewquf"
+                    },
+                    "similarity_percentage": 6.25
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "w"
+                    },
+                    "segment2": {
+                        "text": "lfijweqif"
+                    },
+                    "similarity_percentage": 5.555555555555558
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "w"
+                    },
+                    "segment2": {
+                        "text": "mmflkq"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "w"
+                    },
+                    "segment2": {
+                        "text": "lwkjflir"
+                    },
+                    "similarity_percentage": 6.25
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "40011573",
+                "student2_id": "213"
+            },
+            "similarity_score": 0.04345238095238096,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "hi"
+                    },
+                    "segment2": {
+                        "text": "ddflije"
+                    },
+                    "similarity_percentage": 7.142857142857145
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "ds"
+                    },
+                    "segment2": {
+                        "text": "rfjrwi"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "w"
+                    },
+                    "segment2": {
+                        "text": "ehfuowqr"
+                    },
+                    "similarity_percentage": 6.25
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "w"
+                    },
+                    "segment2": {
+                        "text": "hfrriw"
+                    },
+                    "similarity_percentage": 8.333333333333332
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "w"
+                    },
+                    "segment2": {
+                        "text": "hrfior"
+                    },
+                    "similarity_percentage": 0.0
+                }
+            ],
+            "overall_risk_level": "LOW"
+        },
+        {
+            "student_pair": {
+                "student1_id": "31212",
+                "student2_id": "213"
+            },
+            "similarity_score": 0.0865079365079365,
+            "matching_segments": [
+                {
+                    "question_id": "q1",
+                    "segment1": {
+                        "text": "diucgid"
+                    },
+                    "segment2": {
+                        "text": "ddflije"
+                    },
+                    "similarity_percentage": 7.142857142857145
+                },
+                {
+                    "question_id": "q2",
+                    "segment1": {
+                        "text": "dfhewquf"
+                    },
+                    "segment2": {
+                        "text": "rfjrwi"
+                    },
+                    "similarity_percentage": 12.5
+                },
+                {
+                    "question_id": "q3",
+                    "segment1": {
+                        "text": "lfijweqif"
+                    },
+                    "segment2": {
+                        "text": "ehfuowqr"
+                    },
+                    "similarity_percentage": 11.11111111111111
+                },
+                {
+                    "question_id": "q4",
+                    "segment1": {
+                        "text": "mmflkq"
+                    },
+                    "segment2": {
+                        "text": "hfrriw"
+                    },
+                    "similarity_percentage": 0.0
+                },
+                {
+                    "question_id": "q5",
+                    "segment1": {
+                        "text": "lwkjflir"
+                    },
+                    "segment2": {
+                        "text": "hrfior"
+                    },
+                    "similarity_percentage": 12.5
+                }
+            ],
+            "overall_risk_level": "LOW"
+        }
+    ],
+    "time_anomalies": [
+        1,
+        5,
+        6,
+        15,
+        16,
+        17,
+        18,
+        20,
+        25
+    ],
+    "analysis_metadata": {
+        "algorithm_version": "v1.0",
+        "threshold_settings": {
+            "minimum_similarity": 0.3,
+            "suspicious_threshold": 0.7
+        }
+    }
+}
